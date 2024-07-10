@@ -1,2 +1,3 @@
-# Beginner-C-
+# Beginner-C++
+
 Proiecte pentru incepatori in limbaj C++
